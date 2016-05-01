@@ -1,3 +1,6 @@
 [submodule "Synzer"]
 	path = Synzer
 	url = https://github.com/miroshko/Synzer
+[submodule "midi"]
+	path = midi
+	url = https://github.com/miroshko/midi-keyboard-online-player.git
